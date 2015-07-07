@@ -7,5 +7,6 @@ public class Main {
 //        System.out.println(LengthOfLongestSubstring.alternateFunction("aab"));
 //        System.out.println(FindMedianSortArrays.alternateFunction(new int[] {}, new int[] {1, 2, 3, 4}));
         System.out.println(LongestPalindromicSubstring.longestPalindrome("bb"));
+	System.out.println(ZigzagConvertion.convert("PAYPALISHIRING", 3));
     }
 }
