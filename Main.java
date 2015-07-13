@@ -9,6 +9,8 @@ public class Main {
 //        System.out.println(LongestPalindromicSubstring.longestPalindrome("bb"));
 //        System.out.println(ZigzagConvertion.convert("PAYPALISHIRING", 3));
 //	     System.out.println(ReverseInteger.reverse(100));
-	    System.out.println(Atoi.myAtoi("1"));
+//	    System.out.println(Atoi.myAtoi("1"));
+//	System.out.println(PalindromeNumber.isPalindrome(2147483647));
+        System.out.println(RegularExpressionMatching.isMatch("aaaabcc", "a*bcc"));
     }
 }
