@@ -20,4 +20,4 @@ No | Problem | Solution
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](https://github.com/zzyclark/leetCode_Java/blob/master/14_Longest_Common_Prefix/LongestCommonPrefix.java)
 15 | [3 Sum](https://leetcode.com/problems/3sum/) | [Java](https://github.com/zzyclark/leetCode_Java/blob/master/15_3Sum/ThreeSum.java)
 16 | [3 Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Java](https://github.com/zzyclark/leetCode_Java/blob/master/16_3Sum_Closest/ThreeSumClosest.java)
-17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Java](https://github.com/zzyclark/leetCode_Java/blob/master/17_Letter_Combinations_of_a_Phone Number/LetterCombinationsOf APhoneNumber.java)
+17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Java](https://github.com/zzyclark/leetCode_Java/blob/master/17_Letter_Combinations_of_a_Phone_Number/LetterCombinationsOfAPhoneNumber.java)
