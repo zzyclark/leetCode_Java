@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class ZigzagConvertion {
+public class ZigzagConversion {
     public static String convert (String s, int numRows) {
 	if (0 == numRows)
 	    return "";
