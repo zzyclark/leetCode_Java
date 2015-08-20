@@ -22,4 +22,6 @@ No | Problem | Solution
 16 | [3 Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Java](https://github.com/zzyclark/leetCode_Java/blob/master/16_3Sum_Closest/ThreeSumClosest.java)
 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Java](https://github.com/zzyclark/leetCode_Java/blob/master/17_Letter_Combinations_of_a_Phone_Number/LetterCombinationsOfAPhoneNumber.java)
 18 | [4 Sum](https://leetcode.com/problems/4sum/) | [Java](https://github.com/zzyclark/leetCode_Java/blob/master/18_4Sum/FourSum.java)
-19 | [ 	Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](https://github.com/zzyclark/leetCode_Java/blob/master/19_Remove Nth_Node_From_End_of_List/RemoveNthFromEnd.java)
+19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](https://github.com/zzyclark/leetCode_Java/blob/master/19_Remove Nth_Node_From_End_of_List/RemoveNthFromEnd.java)
+20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Java](https://github.com/zzyclark/leetCode_Java/blob/master/20_Valid_Parentheses/ValidParentheses.java)
+
