@@ -28,3 +28,6 @@
 :star:|22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Java](https://github.com/zzyclark/leetCode_Java/blob/master/22_Generate_Parentheses/GenerateParentheses.java)
  |23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](https://github.com/zzyclark/leetCode_Java/blob/master/23_Merge_k_Sorted_Lists/MergeKSortedLists.java)
   |24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](https://github.com/zzyclark/leetCode_Java/blob/master/24_Swap_Nodes_in_Pairs/SwapNodesInPairs.java)
+  :star:|25 | [Reverse Nodes in k-Group ](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Java](https://github.com/zzyclark/leetCode_Java/blob/master/25_Reverse_Nodes_in_k-Group/ReverseNodesInKGroup.java)
+    |26 | [Remove Duplicates from Sorted Array ](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Java](https://github.com/zzyclark/leetCode_Java/blob/master/26_Remove_Duplicates_from_Sorted_Array/RemoveDuplicatesFromSortedArray.java)
+    |27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](https://github.com/zzyclark/leetCode_Java/blob/master/27_Remove_Element/RemoveElement.java)
