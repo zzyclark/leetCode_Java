@@ -73,12 +73,4 @@ public class FindSubString {
 
         return result;
     }
-
-    public static void main(String[] args) {
-        List<Integer> test = findSubstring("aaaaaaaa"
-                , new String[] {"aa", "aa", "aa"});
-        for (Integer i : test) {
-            System.out.print(i);
-        }
-    }
 }
