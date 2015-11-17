@@ -1,4 +1,5 @@
 import org.junit.Assert;
+import org.junit.Before;
 import org.junit.Test;
 
 /**
@@ -6,13 +7,26 @@ import org.junit.Test;
  * @Date 17-Nov-2015
  */
 public class Divide_Two_IntegersTest {
+    private Integer dividend, divisor;
+
+    @Before
+    public void initializer() {
+        dividend = 55;
+        divisor = 10;
+    }
+
     @Test
     public void divide () {
         DivideTwoIntegers divider = new DivideTwoIntegers();
-        Integer dividend = 55;
-        Integer divisor = 10;
 
         Integer actualResult = divider.divide(dividend, divisor);
-        Assert.assertEquals((long)5, (long)actualResult);
+        Assert.assertEquals((long)(dividend/divisor), (long)actualResult);
+    }
+
+    @Test
+    public void divideAlternate () {
+        DivideTwoIntegers divider = new DivideTwoIntegers();
+        Integer actualResult = divider.divideAlternative(dividend, divisor);
+        Assert.assertEquals((long)(dividend/divisor), (long)actualResult);
     }
 }
