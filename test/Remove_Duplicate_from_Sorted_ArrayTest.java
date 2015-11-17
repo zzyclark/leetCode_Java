@@ -16,9 +16,7 @@ public class Remove_Duplicate_from_Sorted_ArrayTest {
 
     @Test
     public void removeDuplicates() {
-        RemoveDuplicatesFromSortedArray remover = new RemoveDuplicatesFromSortedArray();
-
-        Integer actualResult = remover.removeDuplicates(nums);
+        Integer actualResult = RemoveDuplicatesFromSortedArray.removeDuplicates(nums);
 
         //expect result should start with 2, 3, 4, 5, 6
         for (int i = 0; i <= 4; ++i) {

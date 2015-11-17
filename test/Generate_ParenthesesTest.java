@@ -20,9 +20,7 @@ public class Generate_ParenthesesTest {
 
     @Test
     public void generateParenthesis() {
-        GenerateParentheses generator = new GenerateParentheses();
-
-        List<String> actualResult = generator.generateParenthesis(n);
+        List<String> actualResult = GenerateParentheses.generateParenthesis(n);
 
         Assert.assertEquals(expectResult.length, actualResult.size());
 

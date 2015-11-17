@@ -17,17 +17,13 @@ public class StrStrTest {
 
     @Test
     public void kmp() {
-        StrStr strStr = new StrStr();
-
-        Integer actualResult = strStr.kmp(haystack, needle);
+        Integer actualResult = StrStr.kmp(haystack, needle);
         Assert.assertEquals((long) 5, (long) actualResult);
     }
 
     @Test
     public void strStr() {
-        StrStr strStr = new StrStr();
-
-        Integer actualResult = strStr.strStr(haystack, needle);
+        Integer actualResult = StrStr.strStr(haystack, needle);
         Assert.assertEquals((long) 5, (long) actualResult);
     }
 }

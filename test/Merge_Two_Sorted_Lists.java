@@ -17,9 +17,7 @@ public class Merge_Two_Sorted_Lists {
 
     @Test
     public void mergeTwoLists() {
-        MergeTwoSortedLists merger = new MergeTwoSortedLists();
-
-        ListNode actualResult = merger.mergeTwoLists(l1, l2);
+        ListNode actualResult = MergeTwoSortedLists.mergeTwoLists(l1, l2);
         ListNode expectResult = ListNodeConstructor.
                 contruct(new int[] {1, 2, 3, 4, 5, 6, 7, 8, 9, 10});
 

@@ -18,9 +18,7 @@ public class Remove_ElementTest {
 
     @Test
     public void removeElement() {
-        RemoveElement remover = new RemoveElement();
-
-        Integer actualResult = remover.removeElement(nums, val);
+        Integer actualResult = RemoveElement.removeElement(nums, val);
         Assert.assertEquals((long) 6, (long) actualResult);
     }
 }

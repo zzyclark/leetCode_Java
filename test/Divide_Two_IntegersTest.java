@@ -17,9 +17,7 @@ public class Divide_Two_IntegersTest {
 
     @Test
     public void divide () {
-        DivideTwoIntegers divider = new DivideTwoIntegers();
-
-        Integer actualResult = divider.divide(dividend, divisor);
+        Integer actualResult = DivideTwoIntegers.divide(dividend, divisor);
         Assert.assertEquals((long)(dividend/divisor), (long)actualResult);
     }
 

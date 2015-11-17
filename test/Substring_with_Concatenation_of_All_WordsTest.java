@@ -10,11 +10,10 @@ import java.util.List;
 public class Substring_with_Concatenation_of_All_WordsTest {
     @Test
     public void findSubString() {
-        FindSubString findSubString = new FindSubString();
         String s = "aaaaaaaa";
         String[] words = new String[] {"aa", "aa", "aa"};
 
-        List<Integer> actualResult = findSubString.findSubstring(s, words);
+        List<Integer> actualResult = FindSubString.findSubstring(s, words);
 
         //Result should be [0, 1, 2], order may change.
         if (actualResult.size() != 3) {

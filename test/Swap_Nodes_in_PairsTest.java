@@ -17,9 +17,7 @@ public class Swap_Nodes_in_PairsTest {
 
     @Test
     public void swapPairs() {
-        SwapNodesInPairs swapper = new SwapNodesInPairs();
-
-        ListNode actualResult = swapper.swapPairs(head);
+        ListNode actualResult = SwapNodesInPairs.swapPairs(head);
         int[] expectResultArray = new int[] {2, 1, 4, 3, 5};
         ListNode expectResult = ListNodeConstructor.contruct(expectResultArray);
 

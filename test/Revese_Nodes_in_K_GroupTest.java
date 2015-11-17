@@ -19,9 +19,7 @@ public class Revese_Nodes_in_K_GroupTest {
 
     @Test
     public void reverseKGroup() {
-        ReverseNodesInKGroup reverser = new ReverseNodesInKGroup();
-
-        ListNode actualResult = reverser.reverseKGroup(head, k);
+        ListNode actualResult = ReverseNodesInKGroup.reverseKGroup(head, k);
         int[] expectResultArray = new int[] {2, 1, 4, 3, 5};
         ListNode expectResult = ListNodeConstructor.contruct(expectResultArray);
 

@@ -23,10 +23,5 @@ public class ThreeSumClosest {
         }
         return result;
     }
-
-    public static void main(String[] args) {
-        System.out.println(threeSumClosest(new int[]{1, 2, 4, 6, 8, 16, 32, 64, 128}, 82));
-        return;
-    }
 }
 
