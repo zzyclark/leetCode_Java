@@ -1,3 +1,5 @@
+package algorithms;
+
 import algorithms.StrStr;
 import org.junit.Assert;
 import org.junit.Before;

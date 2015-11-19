@@ -1,3 +1,5 @@
+package algorithms;
+
 import algorithms.DivideTwoIntegers;
 import org.junit.Assert;
 import org.junit.Before;

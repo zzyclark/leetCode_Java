@@ -1,3 +1,5 @@
+package algorithms;
+
 import algorithms.RemoveNthFromEnd;
 import model.ListNode;
 import org.junit.Assert;

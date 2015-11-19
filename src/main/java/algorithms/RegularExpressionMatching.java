@@ -8,7 +8,7 @@ public class RegularExpressionMatching {
 
 		//special case 2, p length is 1
 		// and case 1: when the second char of p is not *
-		if (p.charAt(1) != '*' || p.length() == 1) {
+		if ((p.length() > 1 && p.charAt(1) != '*') || p.length() == 1) {
 			if (s.length() < 1)
 				return false;
 			else if (p.charAt(0) != s.charAt(0) && p.charAt(0) != '.')

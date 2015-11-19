@@ -1,3 +1,5 @@
+package algorithms;
+
 import algorithms.LetterCombinationsOfAPhoneNumber;
 import org.junit.Assert;
 import org.junit.Before;

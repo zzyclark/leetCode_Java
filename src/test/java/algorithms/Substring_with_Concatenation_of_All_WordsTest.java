@@ -1,3 +1,5 @@
+package algorithms;
+
 import static org.junit.Assert.assertTrue;
 
 import algorithms.FindSubString;

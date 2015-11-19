@@ -1,3 +1,5 @@
+package algorithms;
+
 import algorithms.ContainerWithMostWater;
 import junit.framework.Assert;
 import org.junit.Before;
@@ -7,7 +9,7 @@ import org.junit.Test;
  * @Author clark
  * @Date 17-Nov-2015
  */
-public class Container_With_Most_Water {
+public class Container_With_Most_WaterTest {
     private int[] height;
 
     @Before

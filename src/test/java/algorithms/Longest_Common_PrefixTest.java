@@ -1,3 +1,5 @@
+package algorithms;
+
 import algorithms.LongestCommonPrefix;
 import org.junit.Assert;
 import org.junit.Before;
@@ -7,7 +9,7 @@ import org.junit.Test;
  * @Author clark
  * @Date 17-Nov-2015
  */
-public class Longest_Common_Prefix {
+public class Longest_Common_PrefixTest {
     private String[] strs;
 
     @Before

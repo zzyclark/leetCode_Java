@@ -1,3 +1,5 @@
+package algorithms;
+
 import algorithms.MergeTwoSortedLists;
 import model.ListNode;
 import org.junit.Assert;
