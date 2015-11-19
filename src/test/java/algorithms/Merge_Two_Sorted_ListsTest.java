@@ -1,6 +1,5 @@
 package algorithms;
 
-import algorithms.MergeTwoSortedLists;
 import model.ListNode;
 import org.junit.Assert;
 import org.junit.Before;
@@ -11,7 +10,7 @@ import testUtil.ListNodeConstructor;
  * @Author clark
  * @Date 17-Nov-2015
  */
-public class Merge_Two_Sorted_Lists {
+public class Merge_Two_Sorted_ListsTest {
     private ListNode l1, l2;
 
     @Before

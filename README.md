@@ -34,3 +34,4 @@
  |28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Java](https://github.com/zzyclark/leetCode_Java/blob/master/src/main/java/algorithms/StrStr.java)
  |29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Java](https://github.com/zzyclark/leetCode_Java/blob/master/src/main/java/algorithms/DivideTwoIntegers.java)
  |30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Java](https://github.com/zzyclark/leetCode_Java/blob/master/src/main/java/algorithms/FindSubString.java)
+ |31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Java](https://github.com/zzyclark/leetCode_Java/blob/master/src/main/java/algorithms/NextPermutation.java)
